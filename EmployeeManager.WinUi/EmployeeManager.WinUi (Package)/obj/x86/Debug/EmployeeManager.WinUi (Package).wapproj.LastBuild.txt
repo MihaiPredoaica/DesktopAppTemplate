@@ -1,0 +1,34 @@
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\Controls\HeaderControl.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\Resources\logo.png
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\SplashScreen.scale-200.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\LockScreenLogo.scale-200.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\Square150x150Logo.scale-200.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\Square44x44Logo.scale-200.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\StoreLogo.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\Images\Wide310x150Logo.scale-200.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\resources.pri
+C:\Users\mihai\.nuget\packages\microsoft.projectreunion.foundation\0.8.3\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\mihai\.nuget\packages\microsoft.projectreunion.winui\0.8.3\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\mihai\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.19\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\mihai\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.19\lib\WinRT.Runtime.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.pdb
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.pdb
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.deps.json
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.runtimeconfig.dev.json
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x86\Debug\net5.0-windows10.0.19041.0\Controls\HeaderControl.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\Resources\logo.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\mihai\.nuget\packages\microsoft.projectreunion.foundation\0.8.3\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.runtimeconfig.json
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi\bin\x86\Debug\net5.0-windows10.0.19041.0\EmployeeManager.WinUi.pdb

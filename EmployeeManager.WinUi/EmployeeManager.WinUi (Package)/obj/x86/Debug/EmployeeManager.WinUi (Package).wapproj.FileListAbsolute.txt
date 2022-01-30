@@ -1,0 +1,48 @@
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\App.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\MainWindow.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Microsoft.ApplicationModel.Resources.Projection.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Microsoft.WinUI.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Microsoft.Windows.SDK.NET.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\WinRT.Runtime.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.deps.json
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.runtimeconfig.dev.json
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\App.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\MainWindow.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.exe
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Microsoft.ApplicationModel.Resources.Projection.pdb
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.runtimeconfig.json
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.WinUi.pdb
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\resources.pri
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\AppxManifest.xml
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi (Package).build.appxrecipe
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\EmployeeManager.WinUi (Package).wapproj.AssemblyReference.cache
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\EmployeeManager.WinUi (Package).wapproj.CoreCompileInputs.cache
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\EmployeeManager.WinUi.pri.xml
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\priconfig.xml
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\priconfig.xml.intermediate
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\filtered.layout.resfiles
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\excluded.layout.resfiles
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\resources.resfiles
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\resources.resfiles.intermediate
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\pri.resfiles
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\pri.resfiles.intermediate
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\qualifiers.txt
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\ProjectArchitectures.txt
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\obj\x86\Debug\EmployeeManager.WinUi (Package).wapproj.LastBuild.txt
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\Resources\logo.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Resources\logo.png
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\Controls\HeaderControl.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\Controls\HeaderControl.xbf
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.Common.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.DataAccess.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.ViewModel.dll
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.Common.pdb
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.DataAccess.pdb
+D:\Pluralsight\Projects\Desktop App Course\WinUI App\before\EmployeeManager.WinUi\EmployeeManager.WinUi (Package)\bin\x86\Debug\EmployeeManager.WinUi\EmployeeManager.ViewModel.pdb

@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.WinUi\\EmployeeManager.WinUi\\EmployeeManager.WinUi.csproj": {}
+  },
+  "projects": {
+    "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj",
+        "projectName": "EmployeeManager.Common",
+        "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj",
+        "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
+        "outputPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj",
+        "projectName": "EmployeeManager.DataAccess",
+        "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
+        "outputPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+                "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj",
+        "projectName": "EmployeeManager.ViewModel",
+        "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
+        "outputPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+                "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.WinUi\\EmployeeManager.WinUi\\EmployeeManager.WinUi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.WinUi\\EmployeeManager.WinUi\\EmployeeManager.WinUi.csproj",
+        "projectName": "EmployeeManager.WinUi",
+        "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.WinUi\\EmployeeManager.WinUi\\EmployeeManager.WinUi.csproj",
+        "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
+        "outputPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.WinUi\\EmployeeManager.WinUi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows10.0.19041"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows10.0.19041": {
+            "targetAlias": "net5.0-windows10.0.19041.0",
+            "projectReferences": {
+              "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj": {
+                "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.Common\\EmployeeManager.Common.csproj"
+              },
+              "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj": {
+                "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.DataAccess\\EmployeeManager.DataAccess.csproj"
+              },
+              "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj": {
+                "projectPath": "D:\\Pluralsight\\Projects\\Desktop App Course\\WinUI App\\before\\EmployeeManager.ViewModel\\EmployeeManager.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows10.0.19041": {
+          "targetAlias": "net5.0-windows10.0.19041.0",
+          "dependencies": {
+            "Microsoft.ProjectReunion": {
+              "target": "Package",
+              "version": "[0.8.3, )"
+            },
+            "Microsoft.ProjectReunion.Foundation": {
+              "target": "Package",
+              "version": "[0.8.3, )"
+            },
+            "Microsoft.ProjectReunion.WinUI": {
+              "target": "Package",
+              "version": "[0.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+              "version": "[5.0.10, 5.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[5.0.10, 5.0.10]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[5.0.10, 5.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-arm64",
+              "version": "[5.0.10, 5.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[5.0.10, 5.0.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[5.0.10, 5.0.10]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.19, 10.0.19041.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
+              "version": "[5.0.10, 5.0.10]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[5.0.10, 5.0.10]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[5.0.10, 5.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-arm64": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
